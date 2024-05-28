@@ -1,0 +1,4 @@
+Lunch,60.0,Alice,Alice,Bob,Charlie
+Taxi,30.0,Bob,Alice,Bob
+Groceries,40.0,Charlie,Alice,Charlie
+Dinner,80.0,Alice,Alice,Bob
